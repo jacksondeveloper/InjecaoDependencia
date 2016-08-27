@@ -1,4 +1,4 @@
-# GP
+# Projeto Pós
 
 Sistema web para exercicío da pós graduação - Injeção de Dependência
 #### Equipe:
